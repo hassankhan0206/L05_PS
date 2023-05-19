@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="androidString">C346 Android Programming</string>
+    <string name="iPadString">C349 iPad Programming</string>
+    <string name="androidCode">Module Code: C346</string>
+    <string name="androidName">Android Programming</string>
+    <string name="androidVenue">W66M</string>
+    <string name="iPadCode">C349</string>
+    <string name="iPadName">iPad Programming</string>
+    <string name="iPadVenue">E63A</string>
+    <string name="returnBtn">Go back</string>
+</resources>
